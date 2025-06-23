@@ -1,0 +1,99 @@
+# Ship-Every-Friday Squad Application
+# All we need is your GitHub - but tell us more if you want!
+
+essentials:
+  github_username: sayan404
+  email: sayamajumder002@gmail.com
+  full_name: Sayan Majumder
+
+# THE MAIN EVENT - Your GitHub tells the story, but help us understand your GenAI game
+
+genai_mastery:
+  primary_tools:
+    - tool: Cursor
+      proficiency: expert
+      favorite_use_case: Rapid prototyping, code refactoring, and automating repetitive coding tasks.
+    - tool: GitHub Copilot
+      proficiency: expert
+      favorite_use_case: Generating boilerplate code and suggesting improvements during development.
+    - tool: ChatGPT
+      proficiency: expert
+      favorite_use_case: Debugging, code explanations, and brainstorming solutions.
+  ai_shipping_stories:
+    - story: "Built a secure JWT-based authentication system in under 48 hours using AI-assisted coding tools."
+      impact: "Enabled 260+ downloads in 48 hours, improved security and user experience."
+      tools_used: [Cursor, GitHub Copilot, ChatGPT]
+  experimental_tools:
+    - Gemini
+    - Claude
+
+tech_stack_alignment:
+  mern_experience:
+    years: 2
+    recent_project: https://github.com/sayan404/ProDone
+    comfort_level: 9
+  python_experience:
+    years: 2
+    use_cases:
+      - Backend services
+      - Data processing
+      - Automation scripts
+    frameworks:
+      - FastAPI
+      - Flask
+  production_mindset:
+    testing_approach: "Automated testing with Jest, Cypress, and integration testing for robust deployments."
+    monitoring_tools:
+      - Sentry
+      - Datadog
+    ci_cd_experience:
+      - GitHub Actions
+      - Netlify
+    biggest_prod_userbase: "2100+ active users on a React dashboard project."
+
+shipping_velocity:
+  fastest_feature_shipped:
+    description: "Developed a data dashboard in React tracking 10+ key metrics."
+    time_taken: "2 weeks"
+    users_impacted: "2100+"
+  weekly_commit_average: 20
+  friday_availability:
+    answer: absolutely
+    timezone: Asia/Kolkata
+  startup_experience:
+    - company: Dualite
+      pace: "Shipped features weekly, optimized deployment and reduced cycle time by 40%."
+
+open_source_highlights:
+  proudest_contributions:
+    - project: ProDone
+      contribution: "Developed a scalable e-commerce platform for college students."
+      impact: "Serves 80% of college students in the target university."
+    - project: Secure-jwt-auth
+      contribution: "Built a secure JWT-based authentication package."
+      impact: "260+ downloads in 48 hours."
+  maintained_projects:
+    - name: ProDone
+      stars: 10
+      users: 100+
+    - name: secure-jwt-auth
+      stars: 15
+      users: 260+
+
+why_ship_squad:
+  motivation: "I thrive in fast-paced, collaborative environments and love shipping impactful features every week."
+  dream_feature: "AI-powered analytics dashboard for real-time product insights."
+  caffeine_preference: "Coffee"
+  favorite_deploy_gif: "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+
+availability:
+  start_date: "2025-07-01"
+  commitment_level: part-time
+  first_friday: "2025-07-04"
+
+# Auto-filled by our system
+metadata:
+  applied_date: 2025-06-23
+  github_analyzed: false
+  score_generated: false
+  memes_per_minute: null
