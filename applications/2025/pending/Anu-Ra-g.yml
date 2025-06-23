@@ -1,0 +1,95 @@
+# Ship-Every-Friday Squad Application
+# All we need is your GitHub - but tell us more if you want!
+
+essentials:
+  github_username: Anu-Ra-g
+  email: nayakanurag078@gmail.com
+  full_name: Anurag Nayak
+
+genai_mastery:
+  primary_tools:
+    - tool: Cursor
+      proficiency: intermediate
+      favorite_use_case: Helps in writing and testing out the frontend faster
+
+    - tool: Claude
+      proficiency: intermediate
+      favorite_use_case: Testing out the demos for new frameworks or libraries
+
+  ai_shipping_stories:
+    - story: Built an fullstack application for entire management system using Cursor
+      impact: Tested it out locally
+      tools_used: Cursor, ChatGPT
+
+  experimental_tools:
+    - LMStudio
+    - Ollama models
+
+tech_stack_alignment:
+  mern_experience:
+    years: 1
+    recent_project: https://github.com/Anu-Ra-g/Engineering_resource_management
+    comfort_level: 7
+
+  python_experience:
+    years: 1
+    use_cases:
+      - REST apis
+      - AI agents
+      - AI applications
+    frameworks:
+      - FastAPI
+      - Flask
+
+  production_mindset:
+    testing_approach: 
+    monitoring_tools:
+      - Prometheus
+      - Grafana
+    ci_cd_experience:
+      - Github Actions
+    biggest_prod_userbase: https://github.com/fsspec/kerchunk
+
+shipping_velocity:
+  fastest_feature_shipped:
+    description: Wrote a new workflow for a Whatsapp based chatbot so that users could update their profile through Whatsapp
+    time_taken: 1 week
+    users_impacted: 15000
+
+  weekly_commit_average: 5
+
+  friday_availability:
+    answer: absolutely
+    timezone: IST
+
+  startup_experience:
+    - company: WaterdipAI
+      pace: Only relied on ChatGPT as that time I didn't have much experience
+
+open_source_highlights:
+  proudest_contributions:
+    - project: https://github.com/fsspec/kerchunk
+      contribution: Wrote the tests for the indexing module
+      impact: Faster Aggregations of the GRIB data references
+
+    - project: https://github.com/envoyproxy/gateway
+      contribution: Worked on the documentation of the project
+      impact: Users could go through the docs with ease
+
+why_ship_squad:
+  motivation: Getting to work and learn from the engineers that
+  dream_feature: Writing a feature for a video streaming application as I fascinated with how they work and handle all the traffic
+  caffeine_preference: Coffee
+  favorite_deploy_gif: https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif
+
+availability:
+  start_date: June 30
+  commitment_level: full-time
+  first_friday: July 4
+
+# Auto-filled by our system
+metadata:
+  applied_date: 2025-06-23
+  github_analyzed: false
+  score_generated: false
+  memes_per_minute: null
