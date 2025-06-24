@@ -1,0 +1,108 @@
+essentials:
+  github_username: itzsudipta
+  email: info.sudipta.nit@gmail.com
+  full_name: Sudipta Sarkar
+
+genai_mastery:
+  primary_tools:
+    - tool: Cursor
+      proficiency: intermediate
+      favorite_use_case: Refactoring and debugging Python code with speed and clarity
+
+    - tool: Claude
+      proficiency: intermediate
+      favorite_use_case: Prompt refinement, summarizing code logic, and generating structured responses
+
+    - tool: GitHub Copilot
+      proficiency: expert
+      favorite_use_case: Generating boilerplate code, React components, and accelerating development speed
+
+  ai_shipping_stories:
+    - story: "Built GitRAG – an AI-powered Git commit assistant using LangChain, FAISS, and Gemma-2B to answer natural language questions about Git history"
+      impact: "Enabled faster onboarding and historical understanding for internal developer testers"
+      tools_used: [LangChain, Gemma-2B,Phi-2, FAISS, Cursor]
+
+  experimental_tools:
+    - v0.dev
+    - Gemini 1.5 Pro
+    - Tabnine
+    - Hugging Face Transformers
+    - Postman
+
+tech_stack_alignment:
+  mern_experience:
+    years: 1
+    recent_project: https://github.com/itzsudipta/PixelCraft
+    comfort_level: 7
+
+  python_experience:
+    years: 3
+    use_cases:
+      - Backend services
+      - AI pipelines with LangChain
+      - CLI tools
+      - Git automation
+    frameworks:
+      - FastAPI
+      - Flask
+      - LangServer
+
+  production_mindset:
+    testing_approach: Follow a modular design pattern to ensure unit-level isolation; use `pytest` for automated testing and simulate full-stack RAG flows in AI-based tools before release.
+    monitoring_tools: []
+    ci_cd_experience:
+      - GitHub Actions for automated testing and deployment
+    biggest_prod_userbase: Early-stage internal testing with a small group of developer peers (~10–15 users); projects are deployment-ready and being prepared for broader use.
+
+shipping_velocity:
+  fastest_feature_shipped:
+    description: Delivered commit-to-question semantic search functionality using LangChain and GitPython for GitRAG, enabling natural language understanding of version history.
+    time_taken: 3–4 days
+    users_impacted: 10–15 developer testers during internal rollout
+
+  weekly_commit_average: 15–20
+
+  friday_availability:
+    answer: try-and-stop-me
+    timezone: Asia/Kolkata
+
+  startup_experience:
+    
+
+    - company: Hack o NiT 2025 (Internal College Hackathon)
+      pace: Proposed and pitched an AI-powered speech therapy solution; built initial prototype in sprint-based collaboration
+
+    - company: Smart India Hackathon 2024 – Idea Submission
+      pace: Submitted a concept for denoising satellite observation images (ISRO problem statement) using AI/ML-based enhancement pipeline; focused on real-world scientific data challenges
+
+open_source_highlights:
+  proudest_contributions:
+    - project: https://github.com/apu52/Travel_Website
+      contribution: Improved mobile responsiveness and layout of the "Our Growth" timeline section using CSS media queries; fixed alignment and typography for small screens (Issue #1721)
+      impact: Enhanced mobile user experience across devices; contributed under Apertre 2025 contribution program 
+
+  maintained_projects:
+    - name: GitRAG
+      stars: 2
+      users: Small peer group (3–5 testers using it for Git commit exploration)
+
+    - name: PixelCraft
+      stars: 1
+      users: Used by college peers for image manipulation and prompt-to-image testing
+
+why_ship_squad:
+  motivation: I thrive in high-speed environments where experimentation, iteration, and AI-powered development are the norm. I love shipping real tools that solve real dev problems and RAD’s culture of weekly production aligns perfectly with my build-ship-learn cycle.
+  dream_feature: A changelog generator inside GitRAG that summarizes codebase evolution weekly using LangChain and commit embeddings
+  caffeine_preference: Strong iced tea ☕
+  favorite_deploy_gif: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ0dGRvYWtuNzZ0eWoyODlyeXM2NWd1dWk0dms4MmJzdGZyazl3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif
+
+availability:
+  start_date: 2025-07-01
+  commitment_level: part-time
+  first_friday: 2025-07-05
+
+metadata:
+  applied_date: 2025-06-24
+  github_analyzed: false
+  score_generated: false
+  memes_per_minute: null
