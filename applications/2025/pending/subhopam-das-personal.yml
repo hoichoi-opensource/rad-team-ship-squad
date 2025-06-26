@@ -63,9 +63,9 @@ tech_stack_alignment:
 
 shipping_velocity:
   fastest_feature_shipped: 
-    - description: Implemented a semantic search feature using LLMs and vector databases
-    - time_taken: 7 days
-    - users_impacted: 10K
+     description: Implemented a semantic search feature using LLMs and vector databases
+     time_taken: 7 days
+     users_impacted: 10K
   
   weekly_commit_average: 20 # Roughly how many commits/week?
   
