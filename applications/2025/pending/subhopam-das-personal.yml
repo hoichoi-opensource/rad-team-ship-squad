@@ -1,0 +1,113 @@
+# Ship-Every-Friday Squad Application
+# All we need is your GitHub - but tell us more if you want!
+
+essentials:
+  github_username: subhopam-das-personal
+  email: subhopam@gmail.com # REQUIRED - For the good news
+  full_name: Subhopam Das # REQUIRED - What should we call you?
+
+# THE MAIN EVENT - Your GitHub tells the story, but help us understand your GenAI game
+
+genai_mastery:
+  primary_tools:  # Which AI coding tools do you use daily?
+    - tool: Data Science
+      proficiency: intermediate
+      favorite_use_case: "Exploratory Data Analysis to forecast fertilizers name in Kaggle competitions"
+    
+    - tool: Machine Learning
+      proficiency: Beginner
+      favorite_use_case: Text classification using BERT in Python
+
+    - tool: GenAI API/Prompt Engineering # e.g., GitHub Copilot
+      proficiency: Intermediate
+      favorite_use_case: Question answering using LLMs in Python Flask app
+  
+  ai_shipping_stories: # Tell us about shipping with AI
+    - story: Product assistant chatbot # e.g., "Built entire auth system with Cursor in 2 hours"
+      impact: Open to the website to all users across USA. Click through rate increased 2% in a month. # What happened when it went live?
+      tools_used: Github Copilot Agent mode with Anthropic Claude 4 # Which AI tools helped?
+
+  experimental_tools:  # Any bleeding-edge AI tools you're trying?
+    - Model Context protocol
+    - Agentic RAG
+
+tech_stack_alignment:
+  mern_experience:
+    years: 2 # How long with MERN?
+    recent_project: N/A
+    comfort_level: 3 # 1-10
+  
+  python_experience:
+    years: 5
+    use_cases: 
+      - Backend Services:  Semantic search implementation, Question answering using LLMs
+      - Data Processing: Index > 100K PDF documents in a vector database,
+      - Machine Learning: Estimated delivery timeline for shipments using BERT, LSTM, and XGBoost models
+      - Data Science: Exploratory Data Analysis using numpy, scikit-learn, matplotlib,sns etc
+      - Airflow Pipelines: Parallel processing 
+    frameworks: 
+      - Fastapi
+      - Flask
+  
+  production_mindset:
+    testing_approach: API testing using python locust # How do you test for millions of users?
+    monitoring_tools:  # Datadog, Sentry, etc.
+      - Grafana
+      - Prometheus
+    ci_cd_experience:  # GitHub Actions, etc.
+      - github actions
+      - docker
+      - kubernetes
+      - aws
+    biggest_prod_userbase: 300K users across the globe # Largest audience you've shipped to?
+
+shipping_velocity:
+  fastest_feature_shipped: 
+    description: Implemented a semantic search feature using LLMs and vector databases
+    time_taken: 7 days
+    users_impacted: 10K
+  
+  weekly_commit_average: 20 # Roughly how many commits/week?
+  
+  friday_availability: # Can you do ship-every-Friday?
+    answer: yes # yes/absolutely/try-and-stop-me
+    timezone: EST # Your timezone
+  
+  startup_experience: # Worked in fast-paced environments?
+    - company: Thermo Fisher Scientific
+      pace: 7 days # How fast did you ship?
+
+open_source_highlights:
+  # Your top contributions (our bot will verify these)
+  proudest_contributions:
+    - project: https://github.com/subhopam-das-personal/udacity-disaster-response
+      contribution:
+      impact:
+  
+  maintained_projects:
+    - name: https://github.com/subhopam-das-personal/udacity-disaster-response
+      stars:
+      users:
+
+why_ship_squad:
+  motivation: hoichoi is a top content platform. The problems as they want to scale would be complex and will provide the learning opportunity # Why join our Friday shipping cult?
+  
+  dream_feature: Recommendation Engine # What would you build in your first week?
+  
+  caffeine_preference: Coffee # Coffee/Tea/Energy drinks/Other?
+  
+  favorite_deploy_gif: https://giphy.com/gifs/app-production-sysadmin-CDZwopbecAbIc # Drop a GIF URL that captures your deploy vibe
+
+availability:
+  start_date: July 20th ,2025 # When can you ship your first feature?
+  
+  commitment_level: part-time # full-time/part-time/contract
+  
+  first_friday: July 25th, 2025 # Which Friday can we toast your first deploy?
+
+# Auto-filled by our system
+metadata:
+  applied_date: 2025-06-26
+  github_analyzed: false
+  score_generated: false
+  memes_per_minute: null
